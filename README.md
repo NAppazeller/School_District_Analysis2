@@ -28,7 +28,7 @@ Per student spending at Thomas High School was not impacted by the removal of th
 
   * *Scores by School Size*
   
-Scores by school size were not materially impacted by the removal of math and reading scores for the 9th grade class at Thomas High School. The average math score for schools with a student population of 1,000-2,000 students decreased by <-0.1%. While the percentage of students with passing math, passing reading and overall passing scores decreased by <-0.1%, -0.1 and -0.1, respectively.
+Scores by school size were not materially impacted by the removal of math and reading scores for the 9th grade class at Thomas High School. The average math score for schools with a student population of 1,000-2,000 students increased by <0.1% while average reading scores decreased by <-0.1%.  The percentage of students with passing math, passing reading and overall passing scores increased by <0.1%, 0.1%, and 0.1%, respectively.
 
   * *Scores by School Type*
   
