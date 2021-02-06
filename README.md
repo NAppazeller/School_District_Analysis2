@@ -34,8 +34,6 @@ During the analysis it was discovered that scores attributed to the 9th grade cl
   
     * Scores by school type were not impacted by the removal of the math and reading scores for the 9th grade class at Thomas High School. All scores and passing weights remained unchanged.
 
-After Data Removal
-![](http://localhost:8889/view/Desktop/Data_Analysis/School_District_Analysis2/Resources/Post_Per%20School_Sum_DF.jpg)
 ## Summary: 
 
 Changes to data after the removal of the 9th grade math and reading scores for Thomas High School are as follows:
