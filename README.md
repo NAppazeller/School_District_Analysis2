@@ -4,7 +4,7 @@
 
 The Chief Data Analyst for a city school district has requested assistance preparing standardized test scores for analysis, reporting and presentation. The information gathered will be used to inform discussions and strategic decisions at the school and district level. The analysis will include aggregating data related to student funding and standardized test scores in addition to showcasing trends and student performance. The analysis will be used by the superintendent and school board to determine school budgets and district priorities. Due to the sensitivity of the data being analyzed it will be imperative that the Family Education Right and Privacy Act (FERPA) is observed. All student data is considered confidential and should be treated as such.
 
-During the analysis it was discovered that the scores attribute to the 9th grade class at Thomas High School were inaccurate and were subsequently removed from the analysis.
+During the analysis it was discovered that the scores attributed to the 9th grade class at Thomas High School were inaccurate and were subsequently removed.
 
 ## Results: 
 
