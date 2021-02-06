@@ -43,6 +43,6 @@ Changes to data after the removal of the 9th grade math and reading scores for T
   
   * Scores and passing weights for Thomas High School specifically were negatively impacted. The percentage of students with passing math, passing reading and overall passing scores decreased by -01%, -0.3%, and -0.3%, respectively.
   
-  * Scores and passing weights related to schools with populations in the 1,000-2,000 range had mixed impacted. The average math score for schools with a student population of 1,000-2,000 students increased by <0.1% while average reading scores decreased by <-0.1%.  While the percent passing math, reading and overall decreased by <-0.1%, -0.1 and -0.1, respectively.
+  * Scores and passing weights related to schools with populations in the 1,000-2,000 range had mixed impacted. The average math score for schools with a student population of 1,000-2,000 students increased by <0.1% while average reading scores decreased by <-0.1%.  The percentage of students with passing math, passing reading and overall passing scores increased by <0.1%, 0.1%, and 0.1%, respectively.
   
-  * Thomas High Schools' performance scores and weights, when compared to other schools in the district, were negatively impacted.
+  * Thomas High Schools' performance scores and weights, when compared to other schools in the district, were negatively impacted. The average math score for the district decreased -0.1% and the average reading score remained unchanged. The percentage of students with passing math, passing reading and overall passing scores decreased by –0.1%, -0.3% and -0.3%, respectively. 
