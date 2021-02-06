@@ -1,6 +1,6 @@
 # School_District_Analysis2
 
-## Overview of the school district analysis
+## School District Analysis Overview
 
 The Chief Data Analyst for a city school district has requested assistance preparing standardized test scores for analysis, reporting and presentation. The information gathered will be used to inform discussions and strategic decisions at the school and district level. The analysis will include aggregating data related to student funding and standardized test scores in addition to showcasing trends and student performance. The analysis will be used by the superintendent and school board to determine school budgets and district priorities. Due to the sensitivity of the data being analyzed it will be imperative that the Family Education Right and Privacy Act (FERPA) is observed. All student data is considered confidential and should be treated as such.
 
